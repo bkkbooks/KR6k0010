@@ -36,11 +36,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0010_000.yaml, hash: 'sha256:7516e8034541cb97b1bf0874aa5ec2675fec41bfdcc0c3872481007ccea92da8'}
-  - {seq: 1, filename: KR6k0010_001.yaml, hash: 'sha256:e3b4e9cdfff1e4e1c1a53c6f4265ab6b392b095b7adf8b2a3e88a0ce24c71a00'}
+  - {seq: 0, filename: KR6k0010_000.yaml, hash: 'sha256:2f88709a1c15d7ba856cce631848144942b007e7173e2bef8d321d25b9898953'}
+  - {seq: 1, filename: KR6k0010_001.yaml, hash: 'sha256:55da10a093f2b581e4afa851bd34d12ef874d6b8294d70be0f2e19468ea9f2f1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0010_000.markers.yaml, hash: 'sha256:630959d51007df3470b4663a65d7a9f1e25a99458ab4c60e44f6eec62767dc4e'}
-  - {seq: 1, role: markers, filename: assets/KR6k0010_001.markers.yaml, hash: 'sha256:14f97acf44d21001f162a13632d2accd752307c2a82890d8e20f12f736070d01'}
+  - {seq: 0, role: markers, filename: assets/KR6k0010_000.markers.yaml, hash: 'sha256:baf03db96b3baf973329f4ce9ad0a0fd8dcf9daebae1331e92e1377c5300c5ca'}
+  - {seq: 1, role: markers, filename: assets/KR6k0010_001.markers.yaml, hash: 'sha256:844ed3bf664fa636eeac0a9348c2e9c86e0fd13a58a72e5903e26b52fb1c9709'}
 table_of_contents:
 - ref:
     seq: 0
@@ -62,7 +62,4 @@ table_of_contents:
   label: 四分律比丘戒本
   type: juan
   level: 1
-hash: sha256:1a6811b3af67824b05ae54142715fc332ad6574d872377be1077c37446557427
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9ddb2e31c4055e84b6b4c0dfefae8ebfc2645d13dcafaa7bac755c9a3a7c7a84
