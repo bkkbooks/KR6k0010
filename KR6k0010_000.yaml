@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6k0010/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 四分比丘戒本并序西太原寺沙門懷素集夫戒者乃是定慧之宏基聖賢之妙趾窮八正之道盡七覺之源然既樹五制之良規傳須獲實揚六和之清訓學者知詮竊尋流行總有四本據其理雖復同會其文則有異致使弘揚失於宗敘修奉乖於行儀虧鹿野之微言紊龍城之要旨故今詳撿律本參驗戒心依於正文録之如左庶使順菩提之妙業成實相之嘉謀作六趣之舟航為三乘之軌躅者也
   hash: sha256:3c1d735c24f7cafb9a0bd8c447d393a78704b6d6613a4b0865d35b115c6e4f03
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6k0010_T_000-mulu-1, level: '1', 'n': '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 四分律比丘戒本
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T22/T22n1429.xml
     old_id: T22n1429
-hash: sha256:7516e8034541cb97b1bf0874aa5ec2675fec41bfdcc0c3872481007ccea92da8
+hash: sha256:ab3eaffe9812efea75b5eb26fc659c8e515f0d9aeffb12a0d96fe7875da6cb2e

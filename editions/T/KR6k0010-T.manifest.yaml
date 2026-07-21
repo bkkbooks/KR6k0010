@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0010_000-T.yaml, hash: 'sha256:2f88709a1c15d7ba856cce631848144942b007e7173e2bef8d321d25b9898953'}
+  - {seq: 0, filename: KR6k0010_000-T.yaml, hash: 'sha256:1c43708aa5249384f00624342eca727c47ba0535e7f2749b7e4360a452ddf298'}
   - {seq: 1, filename: KR6k0010_001-T.yaml, hash: 'sha256:55da10a093f2b581e4afa851bd34d12ef874d6b8294d70be0f2e19468ea9f2f1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0010_000-T.markers.yaml, hash: 'sha256:d5b81cebde47dda85096f0c83cffe78720654d7752e185db0385e5f528cd095e'}
+  - {seq: 0, role: markers, filename: assets/KR6k0010_000-T.markers.yaml, hash: 'sha256:bdb86cf15efa57e6673b9911b5453d61a7074722eb4fa6995c0d4eff2753f968'}
   - {seq: 1, role: markers, filename: assets/KR6k0010_001-T.markers.yaml, hash: 'sha256:2a20f75d8c8c25bca96de69a0711e0066933eae53e9bb33a5f5e81b1701f56e8'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0010_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -45,4 +45,4 @@ table_of_contents:
   label: 四分律比丘戒本
   type: juan
   level: 1
-hash: sha256:51e328e43215b1e81f259c85b9009c914bd068e7d73b3c4d2baefe5571dac1a8
+hash: sha256:c9274e7a5732a752534c5fe64f8d405eb20d82278e9360a2347f4f4b2dd71f4e
